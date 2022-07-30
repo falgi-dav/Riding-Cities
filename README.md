@@ -1,1 +1,5 @@
-# DW-V3-P2
+# Projet Openclassrooms pour les etudiants
+
+Technologie utilisées : 
+- HTML
+- CSS
